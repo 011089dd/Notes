@@ -9,4 +9,9 @@ Major types of Data:
                                     How many purchaces a customer made in a year, how to many times it flip a "Heads"...
                                 2. Continuous data: Infinite number of possible values.
                                     How much time did it take a user to checkout, how much rain fell on a given day...
-  2. Categorical: 
+                                    
+  2. Categorical: represents qualitative data. Gender, yes/no, state of residence etc. Has no inherent mathematical meaning.
+  
+  3. Ordinal: A mixture of numerical and categorical data. Ordinal data has mathematical meaning.
+              -Movie ratings on the scale of 1-5.
+              -ratings must be 1,2,3,4 or 5. But these values have mathematical meaning.
