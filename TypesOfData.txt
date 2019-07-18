@@ -1,0 +1,12 @@
+Major types of Data:
+  1. Numerical
+  2. Categorical
+  3. Ordinal
+  
+  1. Numerical: represents quantitative measurements. Heights of people, stock prices etc.
+        types of Numerical data:
+                                1. Discrete data: Integer based. Count of some event.
+                                    How many purchaces a customer made in a year, how to many times it flip a "Heads"...
+                                2. Continuous data: Infinite number of possible values.
+                                    How much time did it take a user to checkout, how much rain fell on a given day...
+  2. Categorical: 
